@@ -4,9 +4,8 @@ h1 {
     font-size:50px;
 }
 
-principal{
-    background:red ;
-    font-size: 30px;
+#imagemsite{
+    width: 100%
 }
 
 h1{
@@ -18,4 +17,8 @@ h1{
 .principal{
     background: red;
     font-size: 30px;
+}
+
+#jogo { 
+
 }
